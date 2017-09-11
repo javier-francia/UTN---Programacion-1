@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1494291558 source:f:\1parcial\francia javier\lib.c
+	"lib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494291580 f:\1parcial\francia javier\lib.h
+
+1494291558 source:f:\1parcial\francia javier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
+1494291558 source:d:\1parcial\francia javier\lib.c
+	"lib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494291580 d:\1parcial\francia javier\lib.h
+
+1494291558 source:d:\1parcial\francia javier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
+1495492316 source:d:\1parcial\2do intento\lib.c
+	"lib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1495491810 d:\1parcial\2do intento\lib.h
+
+1495491278 source:d:\1parcial\2do intento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
+1495471140 source:c:\users\asus\desktop\2do intento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
+1495473349 c:\users\asus\desktop\2do intento\lib.h
+
+1495492316 source:f:\1parcial\2do intento\lib.c
+	"lib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1495491810 f:\1parcial\2do intento\lib.h
+
+1495491278 source:f:\1parcial\2do intento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
+1495492316 source:h:\_utn\1cuat\programacion i\examen entregado\1parcial\recuperatorio\lib.c
+	"lib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1495491810 h:\_utn\1cuat\programacion i\examen entregado\1parcial\recuperatorio\lib.h
+
+1495491278 source:h:\_utn\1cuat\programacion i\examen entregado\1parcial\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<string.h>
+
