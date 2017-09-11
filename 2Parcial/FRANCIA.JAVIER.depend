@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1498514495 source:e:\2do parcial\francia.javier\arraylist.c
+	"functions.h"
+
+1498518368 e:\2do parcial\francia.javier\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayList.h"
+
+1497910541 e:\2do parcial\francia.javier\arraylist.h
+
+1498518368 source:e:\2do parcial\francia.javier\functions.c
+	"functions.h"
+
+1498519105 source:e:\2do parcial\francia.javier\main.c
+	"functions.h"
+
+1498514495 source:d:\2do parcial\francia.javier\arraylist.c
+	"functions.h"
+
+1498518368 d:\2do parcial\francia.javier\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayList.h"
+
+1497910541 d:\2do parcial\francia.javier\arraylist.h
+
+1498518368 source:d:\2do parcial\francia.javier\functions.c
+	"functions.h"
+
+1498519105 source:d:\2do parcial\francia.javier\main.c
+	"functions.h"
+
+1498514495 source:h:\_utn\1cuat\programacion i\examen entregado\2parcial\francia.javier\arraylist.c
+	"functions.h"
+
+1505098835 h:\_utn\1cuat\programacion i\examen entregado\2parcial\francia.javier\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayList.h"
+
+1497910541 h:\_utn\1cuat\programacion i\examen entregado\2parcial\francia.javier\arraylist.h
+
+1505097065 source:h:\_utn\1cuat\programacion i\examen entregado\2parcial\francia.javier\main.c
+	"functions.h"
+
+1505098675 source:h:\_utn\1cuat\programacion i\examen entregado\2parcial\francia.javier\functions.c
+	"functions.h"
+
