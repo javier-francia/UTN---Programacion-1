@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1496660702 source:f:\_trabajos practicos\tp03\terminado\tp3 javier francia\funciones.c
+	"funciones.h"
+
+1496660702 f:\_trabajos practicos\tp03\terminado\tp3 javier francia\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1496688761 source:f:\_trabajos practicos\tp03\terminado\tp3 javier francia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496660702 source:d:\_trabajos practicos\tp03\terminado\tp3 javier francia\funciones.c
+	"funciones.h"
+
+1496660702 d:\_trabajos practicos\tp03\terminado\tp3 javier francia\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1496688761 source:d:\_trabajos practicos\tp03\terminado\tp3 javier francia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496660702 source:c:\users\asus\desktop\git cv\tp3\tp3 javier francia\funciones.c
+	"funciones.h"
+
+1496660702 c:\users\asus\desktop\git cv\tp3\tp3 javier francia\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1496688761 source:c:\users\asus\desktop\git cv\tp3\tp3 javier francia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
